@@ -1,0 +1,12 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.main.iml" filepath="$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.test.iml" filepath="$PROJECT_DIR$/.idea/modules/csc-java-course-spring-2023-array-utils.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle-conventions/gradle-conventions.test.iml" />
+    </modules>
+  </component>
+</project>

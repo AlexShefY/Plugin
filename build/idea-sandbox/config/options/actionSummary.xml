@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorUp">
+      <i c="8" l="1679839662443" />
+    </e>
+    <e n="LabelSizeDemoAction">
+      <i c="2" l="1679768499843" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="2" l="1679768136325" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1679768141059" />
+    </e>
+    <e n="com.example.demo1.ActionButtons">
+      <i c="3" l="1679839576386" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1679768487723" />
+    </e>
+  </component>
+</application>

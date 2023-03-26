@@ -1,0 +1,9 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="gradle-conventions" target="11" />
+      <module name="gradle-conventions.main" target="11" />
+      <module name="gradle-conventions.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
